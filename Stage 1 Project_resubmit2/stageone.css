@@ -1,0 +1,64 @@
+h1 {
+	text-align: center;
+	color: #497315;
+}
+body {
+	font-family: Helvetica;
+}
+.lesson {
+	background-color: #497315;
+	border-radius: 25px;
+	color: white;
+	padding: 15px;
+}
+
+h3 {
+	font-size: 30px;
+	margin: 10px;
+	text-align: center;
+}
+
+.concept {
+	background-color: #D8F5A0;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 15px;
+	color: black;
+}
+h4 {
+	font-size: 25px;
+	margin: 10px;
+	text-align: center;
+	color: #497315;
+}
+.concept-description {
+	font-size: 18px;
+	font-weight: lighter;
+	margin: 5px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+a:link {
+    color: #0DCF03;
+}
+
+/* visited link */
+a:visited {
+    color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+    color: #FF00FF;
+}
+
+/* selected link */
+a:active {
+    color: #0000FF;
+}
